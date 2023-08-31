@@ -1,0 +1,12 @@
+# 웹사이트 이름
+title: 데이터 생각 노트
+
+# 웹사이트 주인
+author: Richard Lim
+
+
+# 네이케이션 바 요소
+navbar-links:
+  About: "aboutme"
+  Mentoring: "https://www.inflearn.com/mentors?mentor_id=662"
+  Classes: "https://datarichard.liveklass.com/"
