@@ -1,6 +1,6 @@
 # 데이터 교육 크리에이터
 
-## 강의 주제: Python, R, AWS, Power BI, SQL, Google Analytics
+### 강의 주제: Python, R, AWS, Power BI, SQL, Google Analytics
 
 ## 자기 소개
 🤚 무작정 공부하는 데이터 사이언스는 이제 그만!
@@ -13,9 +13,13 @@
 📊데이터 분석가 와 🔧데이터 엔지니어로 근무한 후,
 현재는 📺 데이터 교육 크리에이터로 활동하고 있어요.
 
+
+
 ## 교육
 
 🏫 **MSBA(Master of Business Analytics)**
-University of Utah - David Eccles School of Business
+
+- University of Utah - David Eccles School of Business
+
 🏫 **Bachelor's of Data Science**
-Brigham Young University - Idaho
+- Brigham Young University - Idaho
