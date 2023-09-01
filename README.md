@@ -1,8 +1,9 @@
 # 데이터 교육 크리에이터
 
-### 강의 주제: Python, R, AWS, Power BI, SQL, Google Analytics
+### Python, R, AWS, Power BI, SQL, Google Analytics, Business Analytics, Data Engineering
+와 관련한 교육을 만듭니다.
 
-## 자기 소개
+## 자기 소개 (Introduction)
 🤚 무작정 공부하는 데이터 사이언스는 이제 그만!
 
 🤖AI와 📊데이터가 이끌어갈 미래,
