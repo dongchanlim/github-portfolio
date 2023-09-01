@@ -15,7 +15,7 @@
 
 
 ## 소개 (Introduction)
-
+------
 
 - 📊데이터로 성장하고 싶은 탐험가들이 더욱 재미있고 가치있게 배울수 있게 돕는 
 교육 크리에이터, 리차드입니다.
@@ -25,7 +25,7 @@
 
 
 ## 교육 (Education)
-
+------
 🏫 **MSBA(Master of Business Analytics)**
 
 - University of Utah - David Eccles School of Business
