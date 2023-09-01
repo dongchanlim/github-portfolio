@@ -1,7 +1,15 @@
 # 데이터 교육 크리에이터
 
-**Python, R, AWS, Power BI, SQL, Google Analytics, Business Analytics, Data Engineering**
-와 관련한 교육 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
+- Python
+- R
+- AWS
+- Power BI
+- SQL
+- Excel
+- Business Analytics
+- Data Engineering
+
+와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
 
 ## 자기 소개 (Introduction)
 
