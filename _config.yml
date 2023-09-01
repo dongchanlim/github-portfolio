@@ -6,7 +6,7 @@ author: Richard Lim
 
 # 테마
 show_downloads: true
-logo: /img/profile.png
+logo: /assets/img/profile.png
 theme: jekyll-theme-minimal
 
 # 네이케이션 바 요소  
