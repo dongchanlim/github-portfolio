@@ -2,14 +2,14 @@
 
 # 데이터 교육 크리에이터
 
-- Python
-- R
-- AWS
-- Power BI
-- SQL
-- Excel
-- Business Analytics
-- Data Engineering
+> - Python
+> - R
+> - AWS
+> - Power BI
+> - SQL
+> - Excel
+> - Business Analytics
+> - Data Engineering
 
 와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
 
@@ -27,11 +27,11 @@
 
 ## 교육 (Education)
 ------
-🏫 **Master of Business Analytics**
+🏫 **Master of Business Analytics** (2023-2025)
 
 - University of Utah - David Eccles School of Business
 
-🏫 **Bachelor's of Data Science**
+🏫 **Bachelor's of Data Science** (2011-2020)
 - Brigham Young University - Idaho
 
 ## 직무 경험 (Experience)
@@ -45,7 +45,7 @@
 **데이터 엔지니어** @ Amazon (2021.08 - 2022.05)
 
 - AWS 판매 실적 리포트를 자동화하기 위한 ETL 파이프라인 개발 및 유지 보수
-- AWS S3, Step Function, Glue, Athena, Cloudwatch 를 사용하여 데이터 층간 버전 관리를 체계화
+- AWS S3, Step Function, Glue, Athena, Cloudwatch 를 사용하여 리포트 랜딩 시간을 25% 단축
 
 **데이터 분석가** @ BYU-Pathway Wolrdwide (2020.08 - 2021.06)
 
@@ -55,3 +55,8 @@
 ## 프로젝트 (Project)
 ------
 
+[딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
+- CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
+
+[뉴욕시 에어비엔비 태블로 분석] (https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
+- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
