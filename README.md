@@ -1,7 +1,7 @@
 # 데이터 교육 크리에이터
 
-### Python, R, AWS, Power BI, SQL, Google Analytics, Business Analytics, Data Engineering
-와 관련한 교육을 만듭니다.
+**Python, R, AWS, Power BI, SQL, Google Analytics, Business Analytics, Data Engineering**
+와 관련한 교육 (라이브 강의, 온라인 클래스, 교육 컨텐츠)를 만듭니다.
 
 ## 자기 소개 (Introduction)
 🤚 무작정 공부하는 데이터 사이언스는 이제 그만!
@@ -16,7 +16,7 @@
 
 
 
-## 교육
+## 교육 (Education)
 
 🏫 **MSBA(Master of Business Analytics)**
 
