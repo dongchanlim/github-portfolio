@@ -1,7 +1,5 @@
 # 데이터 교육 크리에이터
 
-![datarichard](assets/img/datarichard.png)
-
 - Python
 - R
 - AWS
@@ -12,6 +10,9 @@
 - Data Engineering
 
 와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
+
+![datarichard](assets/img/datarichard.png)
+
 
 ## 소개 (Introduction)
 
