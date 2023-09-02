@@ -1,6 +1,6 @@
-![datarichard](assets/img/datarichard.png)
-
 # 데이터 교육 크리에이터
+
+![datarichard](assets/img/datarichard.png)
 
 > Python\
 > R\
