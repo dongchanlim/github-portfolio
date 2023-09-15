@@ -1,10 +1,12 @@
-# 데이터 교육 크리에이터
 
 ![datarichard](assets/img/datarichard.png)
 
 
 ## 📊 소개 (Introduction)
 ------
+
+### 데이터 교육 크리에이터 (Data Educator)
+
 
 - 📊데이터로 성장하고 싶은 탐험가들이 더욱 재미있고 가치있게 배울수 있게 돕는 
 교육 크리에이터, 리차드입니다.
