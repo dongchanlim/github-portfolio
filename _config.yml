@@ -14,3 +14,9 @@ theme: jekyll-theme-minimal
 #  About: "aboutme"
 #  Mentoring: "https://www.inflearn.com/mentors?mentor_id=662"
 #  Classes: "https://datarichard.liveklass.com/"
+
+# 소셜 미디어 링크
+social-network-links:
+  email: "dchanlim@gmail.com"
+  github: "https://github.com/dongchanlim"
+  linkedin: "https://www.linkedin.com/in/datarichard"
