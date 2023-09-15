@@ -7,6 +7,10 @@
 
 ### 데이터 교육 크리에이터 (Data Educator)
 
+> 프로그래밍: Python, R, SQL, Excel, Git \
+> 클라우드: AWS \
+> 시각화: Tableau, Power BI, Looker, Streamlit \
+> Business Analytics, Data Engineering
 
 - 📊데이터로 성장하고 싶은 탐험가들이 더욱 재미있고 가치있게 배울수 있게 돕는 
 교육 크리에이터, 리차드입니다.
@@ -15,10 +19,6 @@
 📊데이터 분석가 와 🔧데이터 엔지니어로 근무한 후,
 현재는 📺 데이터 교육 크리에이터로 활동하고 있어요.
 
-> 프로그래밍: Python, R, SQL, Excel, Git \
-> 클라우드: AWS \
-> 시각화: Tableau, Power BI, Looker, Streamlit \
-> Business Analytics, Data Engineering
 
 와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.</br>
 
