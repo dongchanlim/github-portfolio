@@ -2,14 +2,6 @@
 
 ![datarichard](assets/img/datarichard.png)
 
-> 프로그래밍: Python, R, SQL, Excel, Git \
-> 클라우드: AWS \
-> 시각화: Tableau, Power BI, Looker, Streamlit \
-> Business Analytics, Data Engineering
-
-와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
-
-
 
 ## 📊 소개 (Introduction)
 ------
@@ -21,6 +13,12 @@
 📊데이터 분석가 와 🔧데이터 엔지니어로 근무한 후,
 현재는 📺 데이터 교육 크리에이터로 활동하고 있어요.
 
+> 프로그래밍: Python, R, SQL, Excel, Git \
+> 클라우드: AWS \
+> 시각화: Tableau, Power BI, Looker, Streamlit \
+> Business Analytics, Data Engineering
+
+와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
 
 
 ## 📊 교육 (Education)
