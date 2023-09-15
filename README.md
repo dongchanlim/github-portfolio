@@ -21,7 +21,7 @@
 > Business Analytics, Data Engineering
 
 와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
-
+&nbsp;
 
 ## 📊 교육 (Education)
 ------
@@ -31,7 +31,7 @@
 
 🏫 **Bachelor's of Data Science** (2011-2020)
 - Brigham Young University - Idaho
-
+&nbsp;
 
 
 ## 📊 직무 경험 (Experience)
@@ -51,7 +51,7 @@
 
 - 온라인 학생들의 수업 과목별 리텐션 향상을 위한 데이터 컨설팅 & 데이터 전략 수립
 - 온라인 교육의 심리학적 요인울 체계적으로 분석하여 변수 별로 영향력 측정 및 모델링
-
+&nbsp;
 
 
 ## 📊 프로젝트 (Project)
