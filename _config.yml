@@ -8,14 +8,3 @@ author: Richard Lim
 show_downloads: true
 logo: /assets/img/profile.png
 theme: jekyll-theme-minimal
-
-# 네이케이션 바 요소  
-# navbar-links:
-#  About: "aboutme"
-#  Mentoring: "https://www.inflearn.com/mentors?mentor_id=662"
-#  Classes: "https://datarichard.liveklass.com/"
-
-# 소셜 미디어 링크
-email: "dchanlim@gmail.com"
-github: "https://github.com/dongchanlim"
-linkedin: "https://www.linkedin.com/in/datarichard"
