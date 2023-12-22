@@ -2,7 +2,7 @@
 ![datarichard](assets/img/datarichard.png)
 
 
-## 📊 소개 (Introduction)
+## 📊 자기 소개 (Introduction)
 ------
 
 ### 데이터 교육 크리에이터 (Data Educator)
