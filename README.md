@@ -1,5 +1,5 @@
 
-![datarichard](assets/img/datarichard.png)
+![datarichard](assets/img/logo.png)
 
 
 ## 📊 자기 소개 (Introduction)
