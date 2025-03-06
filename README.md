@@ -7,10 +7,10 @@
 
 ### 데이터 교육 크리에이터 (Data Educator)
 
-> 프로그래밍: Python, R, SQL, Excel, Git \
-> 클라우드: AWS \
-> 시각화: Tableau, Power BI, Looker, Streamlit \
-> Business Analytics, Data Engineering
+프로그래밍: Python, R, SQL, Excel, Git \
+클라우드: AWS \
+시각화: Tableau, Power BI, Looker, Streamlit \
+Business Analytics, Data Engineering
 와 관련된 **(라이브 강의, 온라인 클래스, 교육 컨텐츠)** 를 만듭니다.
 
 
